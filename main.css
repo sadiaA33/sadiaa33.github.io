@@ -1,0 +1,16 @@
+.port{
+    border-radius: 30%;
+}
+
+.jumbotron
+{
+    background-image: url("images.jpeg");
+    background-size: cover;    
+}
+.container1{
+    margin-left: 5%;
+    border: solid 4x black;
+}
+.container2{
+    margin-left: 5%;
+}
