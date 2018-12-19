@@ -1,3 +1,9 @@
+
+.whole{
+   background:url(pics-photos-professional-background-designs-image-31.jpeg);
+   background-size: cover;
+}
+
 .port{
     border-radius: 30%;
 }
@@ -5,7 +11,8 @@
 .jumbotron
 {
     background-image: url("images.jpeg");
-    background-size: cover;    
+    background-size: cover;   
+ 
 }
 .container1{
     margin-left: 5%;
@@ -14,3 +21,4 @@
 .container2{
     margin-left: 5%;
 }
+
